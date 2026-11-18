@@ -1,0 +1,10 @@
+{
+  "name": "erecta-whatsapp-bot-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Erecta patient-support WhatsApp assistant, hosted on Vercel",
+  "dependencies": {
+    "@vercel/functions": "^3.11.3"
+  }
+}
